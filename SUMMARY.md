@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [想点儿什么](xiang-dian-er-shi-yao.md)
+* [我](README.md)
+* [想点儿什么](thinkofsomething.md)
     * [PUG](pug.md)
 
